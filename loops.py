@@ -1,0 +1,63 @@
+n = int(input("please type a non-negative interger"))
+factorial = 1
+for i in range(1, n + 1):
+    factorial *= i
+    print(i, factorial)
+    
+    
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
