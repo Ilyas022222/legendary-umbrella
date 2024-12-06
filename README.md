@@ -5,4 +5,4 @@
 4. create Loops
 5. creating tempreture converter
 6. create listops
-7. craete file handler
+7. create file handler
