@@ -6,3 +6,5 @@
 5. creating tempreture converter
 6. create listops
 7. create file handler
+8. create modular code
+9. debug buggycode
